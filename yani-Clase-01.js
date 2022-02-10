@@ -6,6 +6,7 @@ let numero2 = prompt('Ingrese otro numero');
 
 let suma = parseInt(numero1) + parseInt(numero2);
 
+console.log('Nombre: ' + suma);
 console.log(suma);
 
 //Ejercicio 1
