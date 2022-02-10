@@ -1,0 +1,19 @@
+* Luciana va al almacen y compra 5 productos
+como es media genia. Hacer una calculadora que pida 
+el precio de los productos y muestre por consola el total
+/-----------------------------------------------/
+
+** Escribir un programa que permita ingresar 5 números de a
+uno por vez y que los muestre por pantalla en orden inverso:
+
+Ej:
+• Ingreso           se debe mostrar
+23                          3
+4                           100
+2           =>              2
+100                         4
+3                           23
+/-----------------------------------------------/
+
+*** Pedir al usuario Nombre, apellido y edad 
+e imprimirlo por consola 

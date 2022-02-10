@@ -4,10 +4,10 @@ let numero1 = prompt('Ingrese un numero');
 let numero2 = prompt('Ingrese otro numero');
 
 
-let suma = parseInt(numero1) + parseInt(numero2);
+// let suma = parseInt(numero1) + parseInt(numero2);
 
-console.log('Nombre: ' + suma);
-console.log(suma);
+console.log(numero1);
+// console.log(suma);
 
 //Ejercicio 1
 
