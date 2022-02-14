@@ -22,3 +22,7 @@ let nuemro5= prompt ('ingrese 3')
 
 
 console.log (numero1=3, numero2=100, numero3=2, nuemro4=4, nuemro5=23)
+/**
+ * Solución
+ */
+ console.log (nuemro5, nuemro4, numero3, numero2, numero1)
