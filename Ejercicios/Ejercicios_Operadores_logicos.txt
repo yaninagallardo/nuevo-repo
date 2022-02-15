@@ -7,26 +7,26 @@ let edad = 18;
 
 (edad === 18) => true
 
-(edad < 18) =>
-(edad >= 18) =>
-(edad !== 18) =>
-(edad <= 18) =>
-(edad > 18) =>
+(edad < 18) => false
+(edad >= 18) => true
+(edad != 18) => false
+(edad <= 18) => true
+(edad > 18) => false
 
 let resultado = (edad > 18);
 
-console.log(resultado); => 
-console.log(!resultado); => 
+console.log(resultado); => false 
+console.log(!resultado); => true
  
 /-----------------------------------------------/
 2)
 let edad = 20;
 
-(edad > 20) && (edad <= 25) => 
-(edad > 20)  || (edad <= 25) => 
-(edad !== 20) && (edad > 25) => 
-(edad <= 20) || (edad !== 25) => 
-(false) && (edad === 20) => 
+(edad > 20) && (edad <= 25) => false
+(edad > 20)  || (edad <= 25) => true
+(edad != 20) && (edad > 25) => false
+(edad <= 20) || (edad == 25) => true 
+(false) && (edad === 20) => false
 
 /-----------------------------------------------/
 

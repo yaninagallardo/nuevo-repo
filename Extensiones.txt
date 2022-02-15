@@ -1,3 +1,5 @@
+archivo/preferencias/extenciones
+
 *** Bracket Pair Colorizer => Super util para colorear las { }
 
 *** Git Graph => ver arbol de commits de Git
