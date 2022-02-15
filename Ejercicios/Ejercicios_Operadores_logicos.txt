@@ -1,0 +1,32 @@
+Resolver: 
+/-----------------------------------------------/
+1)
+Indicar en booleano cual va a ser el resultado de la condición
+
+let edad = 18;
+
+(edad === 18) => true
+
+(edad < 18) =>
+(edad >= 18) =>
+(edad !== 18) =>
+(edad <= 18) =>
+(edad > 18) =>
+
+let resultado = (edad > 18);
+
+console.log(resultado); => 
+console.log(!resultado); => 
+ 
+/-----------------------------------------------/
+2)
+let edad = 20;
+
+(edad > 20) && (edad <= 25) => 
+(edad > 20)  || (edad <= 25) => 
+(edad !== 20) && (edad > 25) => 
+(edad <= 20) || (edad !== 25) => 
+(false) && (edad === 20) => 
+
+/-----------------------------------------------/
+
