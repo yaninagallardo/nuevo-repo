@@ -1,0 +1,89 @@
+1)
+Escribir un algoritmo que permita loguearse (registrarse) a un sistema, ingresando un nombre 
+de usuario y la contraseña adecuada. Considerar que tanto el usuario como la contraseña están 
+formados sólo por letras. El sistema deberá validar que el usuario y la contraseña sean correctas, 
+comparándolas con lo que es sistema tiene registrado para ese usuario.
+/-----------------------------------------------/
+2)
+Escribir el algoritmo que, a partir de la cantidad de bancos de un aula y la cantidad de alumnos 
+inscriptos para un curso, permita determinar si alcanzan los bancos existentes. De no ser así, 
+informar además cuantos bancos sería necesario agregar. El usuario deberá ingresar por teclado 
+tanto la cantidad de bancos que tiene el aula, como la cantidad de alumnos inscriptos para el 
+curso.
+/-----------------------------------------------/
+3)
+Diseñar un algoritmo que permita aplicar un descuento del 10% al monto total de una compra 
+si la forma de pago empleada es de contado. El usuario deberá ingresar el monto de la compra 
+realizada y la forma de pago utilizada. Si es contado, deberá aplicar el descuento, sino se deberá 
+mostrar un mensaje informando que para dicha forma de pago no tiene descuento.
+/-----------------------------------------------/
+4)
+Diseñar un algoritmo que devuelva el nombre del mes, a partir del número de mes, ingresado 
+por teclado, por el usuario. Si el usuario ingresa un número de mes que no exista, se deberá 
+mostrar un mensaje indicando que el número ingresado no es correcto
+/-----------------------------------------------/
+5)
+Diseñar un algoritmo que permita al usuario ingresar un número e indicar 
+si el mismo es par o impar.
+/-----------------------------------------------/
+6)
+Diseñar un algoritmo que pida una nota (número) a un profesor. 
+Y a partir de ella muestra la calificación:
+
+0-3: Muy deficiente
+3-5: Insuficiente
+5-6: Suficiente
+6-7: Bien
+7-9: Notable
+9-10: Sobresaliente
+/-----------------------------------------------/
+7)
+Realiza un script que pida por teclado 3 edades y 3 
+nombres e indique el nombre del mayor, luego del medianoy por últmimo del mas pequeño.
+/-----------------------------------------------/
+8)
+Genera 3 números aleatorios entre 1 y 99 pero que no se repita ninguno
+/-----------------------------------------------/
+9)
+Realiza un script que permita ingresar al usuario un número entre 1 - 45 
+correspondientes a la quiniela e imprima 14 resultados aleatorios
+Luego indicar si el usuario resulto ganador o no y en que posición salió su número. 
+Ejemplo de resultado:
+
+Resultado 1: 1
+Resultado 2: X
+Resultado 3: 2
+…..
+Resultado 14: 2
+/-----------------------------------------------/
+10) 
+Realizar un script que a partir de un texto ingresado por el usuario indique 
+largo de la cadena de texto.
+/-----------------------------------------------/
+11)
+Espiral:
+Simularemos la impresión en espiral en una matriz de 3 x 3.
+Imprimir números del 1 - 9 en forma de espiral. 
+
+Mostrar por consola:
+
+    1 2 3
+    8 9 4
+    7 6 5
+
+*** Para hacer saltos de linea dentro del console.log se usa \n.
+Ejemplo console.log("linea 1 \n linea 2");
+/-----------------------------------------------/
+12)
+Espiral:
+Al ejercicio anterior sumarle que el usuario pueda ingresar los 9 números e imprimirlos en espiral.
+/-----------------------------------------------/
+
+***** 
+
+__ACLARACIÓN__ : PARA TODOS LOS CASOS TENER EN CUENTA POSIBLES ERRORES
+POR EJEMPLO:
+    SI PIDE INGRESO DE UN NÚMERO E INGRESO UN TEXTO TIENE QUE MOSTRAR UN ERROR Y HACER 
+    LA LÓGICA CORRECTA 
+
+*****
